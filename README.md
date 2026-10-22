@@ -1,4 +1,4 @@
-<h1 align="center">wallet-cli</h1>
+.<h1 align="center">wallet-cli</h1>
 
 <h4 align="center">
   A command-line wallet for <a href="https://tron.network">TRON</a> and selected EVM networks — interactive in Java, agent-first in TypeScript
